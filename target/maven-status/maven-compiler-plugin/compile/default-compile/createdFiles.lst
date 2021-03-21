@@ -1,3 +1,5 @@
 biat\springframework\msscbeerservicev2\web\Model\BeerDto$BeerDtoBuilder.class
 biat\springframework\msscbeerservicev2\web\Model\BeerDto.class
 biat\springframework\msscbeerservicev2\web\Model\BeerStyleEnum.class
+biat\springframework\msscbeerservicev2\web\Model\BeerPagedList.class
+biat\springframework\msscbeerservicev2\web\Controller\BeerController.class
